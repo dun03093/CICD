@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*test*/
 int main(){
-  printf("hello\n");
+  printf("<h1>hello</h1>\n");
   return 0;
 }
